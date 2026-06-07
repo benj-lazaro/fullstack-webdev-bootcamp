@@ -1,4 +1,4 @@
-# The Complete 2024 Web Development Bootcamp
+# The Complete Full-Stack Web Development Bootcamp
 A documented revisit on learning full-stack web developemnt after the recent course update.
 
 ## What is it?
