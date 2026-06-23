@@ -1,0 +1,18 @@
+How Do Websites Actually Work
+-----------------------------
+- HTML file
+    - Responsible for the content of a website
+    - Includes buttons, images, links & text
+
+
+- CSS file
+    - Responsible for styling a website 
+        - Determines how a website will visually look
+    
+    - It targets the website's content
+        - Applies specific styling to those elements
+
+
+- JavaScript file
+    - Allows a website to actually do things or have functionality
+    - Turns a static website into something that a user can interact with

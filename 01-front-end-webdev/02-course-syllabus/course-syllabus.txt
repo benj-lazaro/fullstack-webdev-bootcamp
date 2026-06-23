@@ -1,0 +1,34 @@
+Download The Course Syllabus
+----------------------------
+- Download the attached PDF file containing the course syllabus
+
+
+- Summarized topics covered by the bootcamp
+    - Web Development Fundamentals
+    - HTML 5
+    - CSS 3
+    - Flexbox
+    - Grid
+    - Bootstrap
+    - Web Design
+    - Document Object Model (DOM)
+    - JavaScript ES6
+    - React.JS
+    - The Unix Command Line
+    - Git, Github & Version Control
+    - Node.JS
+    - Express.JS
+    - Application Program Interfaces (APIs)
+    - EJS
+    - Database Fundamentals
+    - SQL Databases
+    - Postgres Databases
+    - Deployment
+    - Building RESTful APIs
+    - Authentication & Security
+    - Web3 Basics & Blockchain Development
+    - Deploy Your CV Website Onto A Blockchain
+    - Work With A React Frontend & Blockchain Backend
+    - Create Your Own Cypto Token
+    - Create An NFT & Marketplace
+    - 

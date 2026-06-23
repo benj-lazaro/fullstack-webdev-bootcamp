@@ -1,0 +1,38 @@
+Pathfinder
+----------
+- Tailored path finder expereince
+    - Plase pick the statement that best describes you
+
+    - Zero Experience
+        - I am a complete beginner to programming
+
+        - Start here (https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37348056#overview)
+
+    - Some Experience
+        - I have learnt a bit of HTML and CSS in the past
+
+        - Start here (https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350296#overview)
+
+    - Quite Experienced
+        - I have less than 6 months of experience with Javascript and web development
+
+        - Start here (https://www.udemy.com/the-complete-web-development-bootcamp/learn/v4/t/lecture/12383928)
+
+    - Experienced Developer New to Web
+        - I have lots of experience with programming but am new to web development
+
+        - Start here (https://www.udemy.com/the-complete-web-development-bootcamp/learn/v4/t/lecture/12371320/)
+
+    - Experienced Web Developer
+        - I want to learn about the latest Javascript frameworks
+
+        - Start here (https://www.udemy.com/the-complete-web-development-bootcamp/learn/v4/t/lecture/12384268)
+
+    - Want to Learn React
+        - I am an experienced web developer but want to learn React
+
+        - Start here (https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/17038306#overview)
+
+
+- NOTE: These are the author's suggestions
+    - Feel free to browser through the curriculum & learn at your own pace

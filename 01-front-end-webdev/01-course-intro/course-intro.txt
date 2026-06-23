@@ -1,0 +1,6 @@
+What You'll Get In This Course
+------------------------------
+- The course is the online version of
+    - The London App Brewery's 12-week in-person programming bootcamp
+
+    - Course is focused on full stack web development

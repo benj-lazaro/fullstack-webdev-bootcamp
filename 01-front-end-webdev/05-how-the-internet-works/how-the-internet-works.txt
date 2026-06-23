@@ -1,0 +1,15 @@
+How The Internet Works
+----------------------
+- The internet is basically
+    - A long piece of wire
+    - A wire that connects different computers together in a global scale
+    - Communicate & transfer data through the wire
+
+    - There are computers on the wire that has a specific job
+        - Available 24x7
+        - Ready to serve users data & files
+        - These computers are called "servers"
+
+    - A computer used by a user is called a "client"
+
+    - Reference (https://www.submarinecablemap.com/)

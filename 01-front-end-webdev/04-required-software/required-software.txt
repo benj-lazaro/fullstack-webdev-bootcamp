@@ -1,0 +1,20 @@
+Get The Required Software
+-------------------------
+- Visual Studio Code
+    - Free
+    - Website (https://code.visualstudio.com/)
+
+
+- Visual Studio Extensions
+    - Live Preview 
+        - Link (https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+    
+    - Prettier
+        - Link (https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+    - vscode-icons
+        - Link (https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+
+- Google Chrome
+    - Website (https://www.google.com/intl/en_uk/chrome/)
