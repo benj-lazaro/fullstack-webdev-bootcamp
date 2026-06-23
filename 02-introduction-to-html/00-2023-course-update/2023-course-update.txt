@@ -1,0 +1,13 @@
+A Note About 2023 Course Update
+-------------------------------
+- The 2023 update introduces new sections
+    - Flexbox
+    - Grid
+    - Postgres
+
+
+- Dropped MongoDB in favor of Postgres
+    - Research shows favorability towards SQL-based DB competence
+
+
+- Added 50+ hours of new content
