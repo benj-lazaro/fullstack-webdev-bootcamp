@@ -46,3 +46,7 @@ HTML Heading Elements
 
         <h3>Lorem ipsum</h3>
 
+
+- On the exercise document (index.html)
+    - Implement the given levels of importance in HTML code
+    - Use the attached image (goal.png) as guide

@@ -1,6 +1,0 @@
-Exercise
---------
-- On the attached HTML document
-    - Implement the given levels of importance in HTML code
-
-
